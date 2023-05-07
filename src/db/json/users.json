@@ -1,0 +1,93 @@
+[{
+  "_id": {
+    "$oid": "6411ff199febfcaf90e25a13"
+  },
+  "username": "admin",
+  "stu_num": "1912912122",
+  "password": "$2a$10$w.AVDGEqDeStnTWr0yHXyexMnrtKn5T4ced/HjNTWseLfGdUEFZUO",
+  "gender": 0,
+  "createdAt": {
+    "$date": "2023-03-15T17:23:37.327Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T14:58:05.723Z"
+  },
+  "__v": 0,
+  "age": null,
+  "city": "莆田",
+  "mobile": {
+    "$numberLong": "13559398705"
+  },
+  "college": "设计艺术学院",
+  "grade": "大四",
+  "user_pic": "http://localhost:3000/uploads/user/微信图片_20230103193530-1683470958440.jpg",
+  "major": ""
+},{
+  "_id": {
+    "$oid": "64148cac29759302bb7725dd"
+  },
+  "username": "liwen",
+  "stu_num": "1912912119",
+  "password": "$2a$10$Aou1K6kWyfG1lq5Whb7UD.8JIeIMSEtkBA0/8kFDzOsFkQLCNVcym",
+  "gender": 0,
+  "createdAt": {
+    "$date": "2023-03-17T15:52:12.397Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:38:42.928Z"
+  },
+  "__v": 0,
+  "mobile": {
+    "$numberLong": "13950041671"
+  },
+  "grade": "大四",
+  "user_pic": "http://localhost:3000/uploads/user/微信图片_20230103193530-1683106722913.jpg"
+},{
+  "_id": {
+    "$oid": "645229098698832be3d70fec"
+  },
+  "username": "吴诗琦",
+  "stu_num": "1912912132",
+  "password": "$2a$10$OfzD7UqDhcpG3C8lVxyd9OpSSnAxalbYIpeMyF4zYNCkG.z44dCqy",
+  "gender": 0,
+  "user_pic": "http://localhost:3000/uploads/user/QQ图片20210409213846-1683106453567.jpg",
+  "createdAt": {
+    "$date": "2023-05-03T09:27:37.367Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T12:40:42.029Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64522bca4e615d96bfb491ac"
+  },
+  "username": "ggg",
+  "stu_num": "1912912199",
+  "password": "$2a$10$KpNMxKM/xEPrYBi1tdh14ew6mCdah5IrpxCdcEKdFtjuLCYXILji.",
+  "gender": 0,
+  "user_pic": "http://localhost:3000/uploads/user/1-1683106969761.png",
+  "createdAt": {
+    "$date": "2023-05-03T09:39:22.046Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:42:49.767Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64522c6e4e615d96bfb491c4"
+  },
+  "username": "test",
+  "stu_num": "191291test",
+  "password": "$2a$10$ICOM13znnnZKuhoePCbruua61Dgj9SUspWgMsS5vJhlvnhfv6R4tW",
+  "gender": 0,
+  "user_pic": "http://localhost:3000/uploads/user/微信图片_20230103193530-1683106942684.jpg",
+  "createdAt": {
+    "$date": "2023-05-03T09:42:06.512Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T09:42:22.692Z"
+  },
+  "__v": 0
+}]

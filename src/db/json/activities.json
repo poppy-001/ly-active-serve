@@ -1,0 +1,556 @@
+[{
+  "_id": {
+    "$oid": "64522ebb4e615d96bfb491f7"
+  },
+  "activity_title": "考研复试讲座",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304180153-1683107515908.png",
+  "activity_publisher_username": "admin",
+  "activity_desc": "复试答疑帮助",
+  "activity_type": 1,
+  "activity_starttime": "2022.12.20",
+  "activity_address": [
+    "教室",
+    "明理楼"
+  ],
+  "activity_detailAddress": "2-105",
+  "collect_userList": [
+    "liwen"
+  ],
+  "signUp": "qq:12345678",
+  "status": 0,
+  "feature": "学习",
+  "createdAt": {
+    "$date": "2023-05-03T09:51:55.922Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T16:46:28.212Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64524cbbb57c59966ea21d69"
+  },
+  "activity_title": "厦门理工学院春季招聘会",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230503195940-1683115195200.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "有128个企业前来招聘",
+  "activity_type": 3,
+  "activity_starttime": "2023.04.22",
+  "activity_address": [
+    "教室",
+    "明理楼"
+  ],
+  "activity_detailAddress": "明理大厅",
+  "collect_userList": [],
+  "signUp": "qq:1712132179",
+  "status": 0,
+  "feature": "就业",
+  "createdAt": {
+    "$date": "2023-05-03T11:59:55.255Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T19:07:26.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64524d3db57c59966ea21d7a"
+  },
+  "activity_title": "线下狼人杀",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230103193530-1683115325292.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "目前有三女一男，还差2个人，感兴趣的同学来找我们吧",
+  "activity_type": 0,
+  "activity_starttime": "2023.05.08",
+  "activity_address": [
+    "其他",
+    "校外"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [
+    "admin"
+  ],
+  "signUp": "qq:1593574567",
+  "status": 0,
+  "feature": "社交",
+  "createdAt": {
+    "$date": "2023-05-03T12:02:05.301Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T06:40:20.491Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64524e1ab57c59966ea21d8c"
+  },
+  "activity_title": "吉他社迎新",
+  "activity_img": "http://localhost:3000/uploads/active/c17ef0903d5247b9be244f3f04c3ecfa-1683115546386.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "吉他社迎新",
+  "activity_type": 2,
+  "activity_starttime": "2023.03.22 14:00",
+  "activity_address": [
+    "教室",
+    "明理楼"
+  ],
+  "activity_detailAddress": "明理1-105",
+  "collect_userList": [
+    "liwen",
+    "admin"
+  ],
+  "signUp": "qq：557936158",
+  "status": 0,
+  "feature": "社交",
+  "createdAt": {
+    "$date": "2023-05-03T12:05:46.399Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-06T16:53:52.387Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64524f74b57c59966ea21d9e"
+  },
+  "activity_title": "阅读分享会",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230503201122-1683115891998.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "我们每天遨游在书海中，总有几本书让我们难忘，一起来分享给大家吧！",
+  "activity_type": 3,
+  "activity_starttime": "2023.05.13",
+  "activity_address": [
+    "图书馆"
+  ],
+  "activity_detailAddress": "图书馆大厅",
+  "collect_userList": [
+    "liwen"
+  ],
+  "signUp": "微信公众号：厦门理工图书馆",
+  "status": 0,
+  "feature": "学习",
+  "createdAt": {
+    "$date": "2023-05-03T12:11:32.004Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T12:58:08.540Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452500ab57c59966ea21daf"
+  },
+  "activity_title": "草地音乐节",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片-1683116042384.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "草地音乐节，大家可以直接过来参加",
+  "activity_type": 3,
+  "activity_starttime": "2023.03.28 18:00",
+  "activity_address": [
+    "室外运动场",
+    "旧操场"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [
+    "liwen"
+  ],
+  "signUp": "无需报名",
+  "status": 0,
+  "feature": "文艺",
+  "createdAt": {
+    "$date": "2023-05-03T12:14:02.394Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-05T18:52:08.845Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452509ab57c59966ea21dc0"
+  },
+  "activity_title": "大四体侧补测",
+  "activity_img": "http://localhost:3000/uploads/active/1-1683116186604.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "不及格的同学快来补测啦 不然毕不了业了哦",
+  "activity_type": 3,
+  "activity_starttime": "2023.05.28",
+  "activity_address": [
+    "室外运动场",
+    "旧操场"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [],
+  "signUp": "qq:1564841512",
+  "status": 0,
+  "feature": "运动",
+  "createdAt": {
+    "$date": "2023-05-03T12:16:26.609Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T12:16:26.609Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64525ae679c1f8caf095c19f"
+  },
+  "activity_title": "123",
+  "activity_img": "http://localhost:3000/uploads/active/c17ef0903d5247b9be244f3f04c3ecfa-1683118822420.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "123",
+  "activity_type": null,
+  "activity_starttime": "123",
+  "activity_address": [
+    "教室"
+  ],
+  "activity_detailAddress": "123",
+  "collect_userList": [],
+  "signUp": "123",
+  "status": 0,
+  "feature": "",
+  "createdAt": {
+    "$date": "2023-05-03T13:00:22.449Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T13:00:22.449Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64525b7379c1f8caf095c1a6"
+  },
+  "activity_title": "3",
+  "activity_img": "http://localhost:3000/uploads/active/1-1683118963765.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "3",
+  "activity_type": null,
+  "activity_starttime": "3",
+  "activity_address": [
+    "室外运动场",
+    "旧操场"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [],
+  "signUp": "3",
+  "status": 0,
+  "feature": "",
+  "createdAt": {
+    "$date": "2023-05-03T13:02:43.771Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-03T13:02:43.771Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452a51f79c1f8caf095c1d4"
+  },
+  "activity_title": "奶油胶DIY",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304172623-1683137823286.jpg",
+  "activity_publisher_username": "liwen",
+  "activity_desc": "与各位小小旅享家进行互动，探索世界各地奇幻旅行",
+  "activity_type": 3,
+  "activity_starttime": "2022.5.15 早上10-12点",
+  "activity_address": [
+    "艺术会堂"
+  ],
+  "activity_detailAddress": "门口14号摊位",
+  "collect_userList": [
+    "admin"
+  ],
+  "signUp": "无需报名",
+  "status": 0,
+  "feature": "文艺",
+  "createdAt": {
+    "$date": "2023-05-03T18:17:03.298Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T06:40:46.024Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6452bfd679c1f8caf095c3b6"
+  },
+  "activity_title": "test",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304180357-1683144662353.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "test",
+  "activity_type": null,
+  "activity_starttime": "test",
+  "activity_address": [
+    "教室",
+    "创艺园"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [],
+  "signUp": "test",
+  "status": 0,
+  "feature": "",
+  "createdAt": {
+    "$date": "2023-05-03T20:11:02.360Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-04T15:13:54.867Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576600e28f4788572e2471"
+  },
+  "activity_title": "第十九届ERP沙盘模拟经营比赛",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304172215-1683449344629.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "为了丰富同学们的校园文化生活，培养团队协作能力和拼搏向上的精神，厦门门理工学院ERP沙盘协会拟于今年11月举办沙.盘比赛，欢迎广大同学们积极参与。参与沙盘模拟经营比赛过程中，不仅能结识朋友、发现自我，还能有机会体验自主创业历程的快乐，更有学分、奖金在等你呢。期待同学们的到来。  不论你对比赛是否了解、是否0基础，我们都会安排赛前培训。欢迎广大同学们积极参加!  参赛对象:全体在校学生，不限专业、年级，自由组合5人一组。(人数不够的话 ,可加赛事群后再组合)  一、比赛时间: 2022年11月12日-2022年11月13日  二、报名截止日期: 2022年10月28日.三、报名方式:添加赛事qq群，于群内填写报名表。官方赛事qq群: 814226399四、奖品奖项设置:根据比赛排名分别评出一等奖、二等奖及三等奖,并有机会参与创新学分、综测加分认定，获得奖金鼓励。",
+  "activity_type": 3,
+  "activity_starttime": "2022年11月12日",
+  "activity_address": [
+    "线上活动"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [],
+  "signUp": "qq群: 814226399",
+  "status": 0,
+  "feature": "赛事",
+  "createdAt": {
+    "$date": "2023-05-07T08:49:04.669Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T08:49:04.669Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645766c6e28f4788572e2474"
+  },
+  "activity_title": "学创中心地推活动",
+  "activity_img": "http://localhost:3000/uploads/active/图片1-1683449542540.png",
+  "activity_publisher_username": "admin",
+  "activity_desc": "学创中心的地推活动开始啦~有各种小礼品小零食还有漂亮学姐帅气学长! ! !各位小伙伴快来跟我们一起玩儿! ! !",
+  "activity_type": 2,
+  "activity_starttime": "2023.5.10",
+  "activity_address": [
+    "教室",
+    "明理楼"
+  ],
+  "activity_detailAddress": "明理一一楼通道/三期",
+  "collect_userList": [],
+  "signUp": "无需报名",
+  "status": 0,
+  "feature": "社交",
+  "createdAt": {
+    "$date": "2023-05-07T08:52:22.546Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T08:52:22.546Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576840e28f4788572e24c1"
+  },
+  "activity_title": "校合唱团纳新",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304181747-1683449920607.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "又是一个普通的周末，这里是来自厦门理工学院校团委书记直属的唯一~指定厦门理工学院合唱团宣传部的小喇叭8 ,我们合唱团是一一个历史悠久，人杰地灵的地方θ，位于充满了团员们惊人表现力的教工之家1-106★。厦门理工学院合唱团近年来发展迅速，获奖无数，曾获福建省第五届大学生艺术节合唱节目甲组一等奖，福建省第六届大学生艺术节合唱节目甲组二等奖等，受邀参加校庆音乐会、迎新晚会、厦门市快闪活动等小,在省级国家级大奖赛中表现不凡，优秀人才层出不穷? g。更多精彩资讯和信息指导可以查看我们的厦门]理工学院合唱团公众号哦，定期发布各种合唱团最近资讯和有趣活动。(哟， 小伙伴们，都看到这里了,顺手给我们的公众号厦门门理工学院合唱团点一个关注吧，十分感谢啦! ",
+  "activity_type": 2,
+  "activity_starttime": "2023.09.18",
+  "activity_address": [
+    "教工之家"
+  ],
+  "activity_detailAddress": "1-106",
+  "collect_userList": [],
+  "signUp": "公众号：厦门门理工学院合唱团",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T08:58:40.614Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T08:58:40.614Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576897e28f4788572e24ec"
+  },
+  "activity_title": "理工说唱协会招新",
+  "activity_img": "http://localhost:3000/uploads/active/图片2-1683450007412.png",
+  "activity_publisher_username": "admin",
+  "activity_desc": "理工说唱协会招新了想要成为Rap Star吗?  想找到志同道合的伙伴吗? 想要学习相关的知识吗? 想拥有属于自己的单曲吗? 快来加入我们吧!",
+  "activity_type": 2,
+  "activity_starttime": "2023.09.23",
+  "activity_address": [
+    "线上活动"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [
+    "admin"
+  ],
+  "signUp": "qq:4561213881",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T09:00:07.420Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T11:22:47.786Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645768fde28f4788572e2517"
+  },
+  "activity_title": "宏发AMOY赛车队宣讲会",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304180357-1683450109056.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "本周日晚6点厦门理工学院宏发AMOY赛车队将在逸夫楼2-304教室开展宣讲会，对车队感兴趣的同学可以来参加喔!",
+  "activity_type": 2,
+  "activity_starttime": "本周日晚6点",
+  "activity_address": [
+    "教室",
+    "逸夫楼"
+  ],
+  "activity_detailAddress": "2-304",
+  "collect_userList": [],
+  "signUp": "qq群：471036259",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T09:01:49.064Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T09:01:49.064Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576976e28f4788572e2542"
+  },
+  "activity_title": "英语角第五期:传统文化之失传手工艺",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304202754-1683450230376.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "和我们一起了解传统国学精华，陶冶精神情操吧!",
+  "activity_type": 3,
+  "activity_starttime": "11.16 15：30-17：30",
+  "activity_address": [
+    "教室",
+    "明理89"
+  ],
+  "activity_detailAddress": "1楼英美文化教室",
+  "collect_userList": [],
+  "signUp": "qq：1654654151",
+  "status": 0,
+  "feature": "文艺",
+  "createdAt": {
+    "$date": "2023-05-07T09:03:50.382Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T09:03:50.382Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "645769c2e28f4788572e256d"
+  },
+  "activity_title": "舞蹈协会纳新",
+  "activity_img": "http://localhost:3000/uploads/active/图片3-1683450306811.png",
+  "activity_publisher_username": "admin",
+  "activity_desc": "三年前，他遇到过一位算命先生，他当时以为这只是用伪劣的手段骗取钱财。可是，算命先生说过的那些话囊括了这些年发生过的每---件错事。他彻底疯了，用尽所有手段去找那位算命先生。历尽千辛万苦，他终于找到了。算命先生不计前嫌，赠与他一个锦囊。他在一-个月圆之夜害怕又开心地打开锦囊，上面歪七扭八地写着:加入舞蹈协会!!  今日解签,宜来舞蹈协会的  在这里，有志同道合的朋友;在这里，无需面试，加入就是我们的\"新”上人;在这里，无需基础，我们会教!  每一个你，都是我们要找的伯乐◆快快加入我们舞蹈协会吧\"+针",
+  "activity_type": 2,
+  "activity_starttime": "2023.10.02",
+  "activity_address": [
+    "线上活动"
+  ],
+  "activity_detailAddress": "",
+  "collect_userList": [],
+  "signUp": "微信：6464156155",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T09:05:06.815Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T09:05:06.815Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576a1ae28f4788572e2598"
+  },
+  "activity_title": "厦门理工辩论队，问候在场各位",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304180153-1683450394052.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "开宗明义，何为辩论?抬杠?争吵?是奇葩说?都不是。   辩论，是赛前的充分准备，是和队友的思想碰撞;是场.上的起承转合，框架贯彻，是反驳时的层层拆解，是面对质询的寸土不让，是灵光迸发时的高光，当然也有落于下风时渴望下一个输出环节的坚韧和倔强。     辩论，于我们这群辩手，是“是无人之境的自我超越”、“是平凡世界里的英雄梦”、“是人生中的梦幻觉与暗月光”，辩论，更是一-种情怀。      通过辩论，你将学会换位思考，为你自己原本不认可的观点发声;你的视野将前所未有的开阔，因为几乎所有的事物都会成为你面对的辩题.     最后，你将披满光芒，这光来自于你的思考，你的人文关怀，你的道德素养，更来自于你本身。 “now your time, debater.it's your time.\"    本周六社团纳新辩论协会摊位等你来解锁更多辩论队和辩论协会的秘密。 辩论队纳新群号: 746801244 (辩论队需要面试) (ps:其他社团的各种活动团建、我们全都有，更有和其他高校一同参加和举办的各种辩论赛)",
+  "activity_type": 2,
+  "activity_starttime": "本周六",
+  "activity_address": [
+    "图书馆"
+  ],
+  "activity_detailAddress": "图书馆门口",
+  "collect_userList": [
+    "admin"
+  ],
+  "signUp": "群号: 746801244（需要面试)",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T09:06:34.060Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T09:10:16.989Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576a6fe28f4788572e25c3"
+  },
+  "activity_title": "影评协会纳新",
+  "activity_img": "http://localhost:3000/uploads/active/图片4-1683450479365.png",
+  "activity_publisher_username": "admin",
+  "activity_desc": "同学你好!我们是一-个热爱电影的社团组织，在这里，会有许多热爱电影的小伙伴们。如果你也热爱电影及各类影视作品特别是对它们有着独特的解读与思考那么我们诚挚欢迎你加入影协  一起怀着对光影的初心  感受每-场光影的盛宴~",
+  "activity_type": 2,
+  "activity_starttime": "2023.09.23",
+  "activity_address": [
+    "图书馆"
+  ],
+  "activity_detailAddress": "图书馆门口",
+  "collect_userList": [
+    "admin"
+  ],
+  "signUp": "QQ群：661531564",
+  "status": 0,
+  "feature": "社团纳新",
+  "createdAt": {
+    "$date": "2023-05-07T09:07:59.370Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T14:52:29.547Z"
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "64576ab9e28f4788572e25ee"
+  },
+  "activity_title": "奶油胶DIY",
+  "activity_img": "http://localhost:3000/uploads/active/微信图片_20230304172623-1683472268450.jpg",
+  "activity_publisher_username": "admin",
+  "activity_desc": "团团10.1文化集市早上10-12点我们奶油胶DIY在艺术会堂前14号摊位等你们来欧!欢迎大家来免费体验(自己也可以带手机壳来DIY喔)?",
+  "activity_type": 3,
+  "activity_starttime": "10.01早上10点-12点",
+  "activity_address": [
+    "艺术会堂"
+  ],
+  "activity_detailAddress": "14号摊位",
+  "collect_userList": [],
+  "signUp": "无需报名",
+  "status": 0,
+  "feature": "文艺",
+  "createdAt": {
+    "$date": "2023-05-07T09:09:13.983Z"
+  },
+  "updatedAt": {
+    "$date": "2023-05-07T15:14:04.887Z"
+  },
+  "__v": 0
+}]
