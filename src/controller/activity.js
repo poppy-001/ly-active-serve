@@ -41,7 +41,7 @@ async function delActive(id, username) {
   try {
     const activeInfo = await Activity.findOne({ _id: id });
     if (!activeInfo) return
-    if (username === activeInfo.activity_publisher_username) {
+    if (username === activeInfo.activity_publisher_username || username === 'admin') {
       const removeActiveInfo = await Activity.findOneAndRemove({ _id: id });
       console.log(removeActiveInfo);
       return removeActiveInfo
